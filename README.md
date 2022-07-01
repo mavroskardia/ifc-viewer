@@ -1,2 +1,10 @@
-# ifc-viewer
-Web interface for viewing IFC files based on web-ifc-viewer.
+# IFC Viewer
+
+Experimenting with web IFC interactions
+
+```sh
+npm i
+npm run dev
+# when ready to build for deployment:
+npm build
+```
